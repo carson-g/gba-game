@@ -1,4 +1,5 @@
-Definitely Not: METROID
+Introducing my GBA Game for CS 2110:
+_Definitely Not: METROID_
 
 Quick, you must destroy all the enemies before the time runs out!
 
